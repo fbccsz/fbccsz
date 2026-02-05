@@ -1,5 +1,4 @@
 <div align="center">
-<!-- TÍTULO ANIMADO -->
 <a href="https://www.google.com/search?q=https://git.io/typing-svg">
 <img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26pause%3D1000%26color%3DFFFFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFabricio%2BS.%3BPython%2BDeveloper.%3BAutomation%2BSpecialist." alt="Typing SVG" />
 </a>
@@ -17,7 +16,6 @@ Crio soluções que economizam tempo e reduzem erros.
 
 
 
-<!-- LINKS SOCIAIS -->
 <a href="https://www.google.com/search?q=https://yshdev.vercel.app">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Website-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" />
 </a>
@@ -47,16 +45,14 @@ Crio soluções que economizam tempo e reduzem erros.
 | Video Editor CLI | FFmpeg | Edição de vídeo via linha de comando. |
 | Chat Socket | TCP/IP | Chat em tempo real com sockets. |
 <div align="center">
-<!-- ESTATÍSTICAS -->
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfbccsz%26show_icons%3Dtrue%26theme%3Dgotham%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3Dffffff%26icon_color%3Dffffff%26text_color%3D999999" />
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dfbccsz%26layout%3Dcompact%26theme%3Dgotham%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3Dffffff%26text_color%3D999999" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfbccsz%26show_icons%3Dtrue%26theme%3Dgotham%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3Dffffff%26icon_color%3Dffffff%26text_color%3D999999" height="150" alt="stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dfbccsz%26layout%3Dcompact%26theme%3Dgotham%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3Dffffff%26text_color%3D999999" height="150" alt="langs" />
 </div>
 <div align="center">
-<!-- GRÁFICO DE ATIVIDADE -->
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dfbccsz%26theme%3Dxcode%26bg_color%3D000000%26color%3Dffffff%26line%3Dffffff%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" width="100%" />
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dfbccsz%26theme%3Dxcode%26bg_color%3D000000%26color%3Dffffff%26line%3Dffffff%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" width="100%" alt="graph" />
 </div>
 <div align="center">
 
 
-<sub style="color: #666">© 2026 Fabricio S.</sub>
+<sub>© 2026 Fabricio S.</sub>
 </div>
