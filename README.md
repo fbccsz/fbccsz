@@ -1,8 +1,6 @@
 <h1 align="center">Hi, i'm ysh 👋</h1>
 <h3 align="center">I'm a python developer and I currently live in Brazil.</h3>
 
-<p align="left"> <a href="https://github.com/fbccsz"><img src="https://github-profile-trophy.vercel.app/?username=fbccsz" alt="fbccsz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/desconvir" target="blank"><img src="https://img.shields.io/twitter/follow/desconvir?logo=twitter&style=for-the-badge" alt="desconvir" /></a> </p>
 
 - 🔭 I’m currently working on [Chat Bot](https://majestic-dodol-314eba.netlify.app/)
