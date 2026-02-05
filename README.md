@@ -1,5 +1,5 @@
 <h1 align="center">Hi, i'm ysh 👋</h1>
-<h3 align="center">I'm a backend developer and I currently live in Brazil.</h3>
+<h3 align="center">I'm a python developer and I currently live in Brazil.</h3>
 
 <p align="left"> <a href="https://github.com/fbccsz"><img src="https://github-profile-trophy.vercel.app/?username=fbccsz" alt="fbccsz" /></a> </p>
 
