@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, meu nome é ysh</h1>
 <h3 align="center">Sou desenvolvedor backend e moro no Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fbccsz&label=Profile%20views&color=0e75b6&style=flat" alt="fbccsz" /> </p>
+<p align="left"> <img src="https://github.com/fbccsz" alt="fbccsz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fbccsz" alt="fbccsz" /></a> </p>
 
