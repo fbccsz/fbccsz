@@ -26,7 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fbccsz&show_icons=true&locale=en&layout=compact" alt="fbccsz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fbccsz&show_icons=true&locale=en" alt="fbccsz" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fbccsz&" alt="fbccsz" /></p>
 
