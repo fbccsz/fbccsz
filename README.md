@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/desconvir" target="blank"><img src="https://img.shields.io/twitter/follow/desconvir?logo=twitter&style=for-the-badge" alt="desconvir" /></a> </p>
 
-- 🔭 I’m currently working on [Chat Bot](https://github/fbccsz/chat)
+- 🔭 I’m currently working on [Chat Bot](https://github.com/fbccsz/chat)
 
 - 👨‍💻 All of my projects are available at [https://yshdev.vercel.app](https://yshdev.vercel.app)
 
