@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Chat Bot](https://majestic-dodol-314eba.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [yshdev.me](yshdev.me)
+- 👨‍💻 All of my projects are available at [https://yshdev.me](yshdev.me)
 
 - 💬 Ask me about **Python**
 
