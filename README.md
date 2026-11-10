@@ -1,24 +1,36 @@
-<h1 align="center">Hi, i'm ysh 👋</h1>
-<h3 align="center">I'm a python developer and I currently live in Brazil.</h3>
+<a href="https://www.yshdev.me/"><img src="assets/banner.svg" width="100%" alt="ysh.dev — Fabrício Silva. Python, automação e aplicações web."></a>
 
+# Fabrício Silva · ysh
 
-- 🔭 I’m currently working on [Chat Bot](https://majestic-dodol-314eba.netlify.app/)
+Desenvolvo **automações em Python e aplicações web** para organizar dados, conectar serviços e simplificar processos. Meu trabalho reúne backend, interfaces em TypeScript e experiências mobile com Flutter.
 
-- 👨‍💻 All of my projects are available at [https://yshdev.me](https://yshdev.me)
+[Portfólio](https://www.yshdev.me/) · [LinkedIn](https://www.linkedin.com/in/fabricio-silva-miranda-937342358/) · [Contato](mailto:yshdev@outlook.com)
 
-- 💬 Ask me about **Python**
+## Projetos em destaque
 
-- 📫 How to reach me **yshdev.outlook.com**
+| Projeto | O que resolve | Tecnologias |
+| --- | --- | --- |
+| [Atende Local](https://github.com/fbccsz/chat) | Apresentação de serviços, assistente de atendimento e solicitações de agendamento. | React, TypeScript, Supabase, Netlify Functions |
+| [WebScrap do Bem](https://github.com/fbccsz/webscrapdobem) | Coleta e visualização de publicações em um painel com filtros e cache local. | Python, Streamlit, Apify, Pandas, SQLite |
+| [Editor de Vídeo](https://github.com/fbccsz/editor-video) | Criação de vídeos a partir de imagens e locução, em Python ou no navegador. | Python, MoviePy, Pillow, JavaScript |
+| [Outlook Automation](https://github.com/fbccsz/outlook-automation-python) | Mensagens personalizadas a partir de planilhas, com execução local no Outlook. | Python, Pandas, PyWin32 |
+| [Saga do Empreendedorismo](https://github.com/fbccsz/saga-do-empreendedorismo) | Experimento de jogo com exploração, combate e gerenciamento de recursos. | JavaScript, HTML, CSS |
 
-<h3 align="left">Talk to me:</h3>
-<p align="left">
-<a href="https://twitter.com/desconvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="desconvir" height="30" width="40" /></a>
-<a href="https://instagram.com/yshdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yshdeveloper" height="30" width="40" /></a>
-</p>
+**Experimente:** [Atende Local](https://majestic-dodol-314eba.netlify.app/) · [Editor de Vídeo](https://fbccsz.github.io/editor-video/) · [Saga do Empreendedorismo](https://fbccsz.github.io/saga-do-empreendedorismo/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p><br>
+As demonstrações e os experimentos têm estágios diferentes de maturidade. O [portfólio](https://www.yshdev.me/#projects) apresenta o contexto de cada projeto e também uma seleção de trabalhos com código privado.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fbccsz&" alt="fbccsz">
-</div>
+## Ferramentas que uso
+
+| Área | Tecnologias |
+| --- | --- |
+| Backend e automação | Python, FastAPI, Pandas, OpenPyXL, MoviePy |
+| Aplicações web | TypeScript, JavaScript, React, Vite, HTML, CSS |
+| Dados e integrações | SQL, SQLite, SQLAlchemy, Supabase, APIs REST, n8n |
+| Mobile e desenvolvimento | Flutter, Dart, Git, GitHub, Linux |
+
+## Vamos conversar
+
+Tenho interesse em projetos de automação, ferramentas para negócios e aplicações que tornem rotinas mais simples.
+
+**[yshdev@outlook.com](mailto:yshdev@outlook.com)** · **[yshdev.me](https://www.yshdev.me/)**
