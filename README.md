@@ -1,10 +1,9 @@
 <a href="https://www.yshdev.me/"><img src="assets/banner.svg" width="100%" alt="ysh.dev — Fabrício Silva. Python, automação e aplicações web."></a>
 
-# Fabrício Silva · ysh
 
 Desenvolvo **automações em Python e aplicações web** para organizar dados, conectar serviços e simplificar processos. Meu trabalho reúne backend, interfaces em TypeScript e experiências mobile com Flutter.
 
-[Portfólio](https://www.yshdev.me/) · [LinkedIn](https://www.linkedin.com/in/fabricio-silva-miranda-937342358/) · [Contato](mailto:yshdev@outlook.com)
+ [Portfólio](https://www.yshdev.me/) · [LinkedIn](https://www.linkedin.com/in/fabricio-silva-miranda-937342358/) · [Contato](mailto:yshdev@outlook.com)
 
 ## Projetos em destaque
 
