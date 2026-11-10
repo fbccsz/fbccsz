@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
-  <title id="title">ysh.dev — Fabrício Silva</title>
+  <title id="title">ysh.dev — Python, automação e web</title>
   <desc id="desc">Python, automação e aplicações web. Código para conectar ideias, dados e processos.</desc>
   <rect width="1280" height="340" fill="#080808"/>
   <g stroke="#262626" stroke-width="1"><path d="M40 0v340M640 0v340M1240 0v340M0 44h1280M0 296h1280"/></g>
-  <g fill="#aaa" font-family="monospace" font-size="12" letter-spacing="3"><text x="64" y="29">FABRÍCIO SILVA / BRASIL</text><text x="1110" y="29">YSH.DEV</text></g>
+  <g fill="#aaa" font-family="monospace" font-size="12" letter-spacing="3"><text x="64" y="29">YSH / BRASIL</text><text x="1110" y="29">YSH.DEV</text></g>
   <text x="58" y="191" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="132" letter-spacing="-8">ysh<tspan fill="none" stroke="#777" stroke-width="1.5">.dev</tspan></text>
   <text x="66" y="247" fill="#ccc" font-family="monospace" font-size="17" letter-spacing="1.5">PYTHON · AUTOMAÇÃO · APLICAÇÕES WEB</text>
   <g transform="translate(1080 113)" stroke="#fff" stroke-width="3" fill="none"><path d="M0 100L100 0M0 0h100v100"/></g>
