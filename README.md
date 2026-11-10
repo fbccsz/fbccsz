@@ -10,13 +10,13 @@ Desenvolvo **automações em Python e aplicações web** para organizar dados, c
 
 | Projeto | O que resolve | Tecnologias |
 | --- | --- | --- |
-| [Atende Local](https://github.com/fbccsz/chat) | Apresentação de serviços, assistente de atendimento e solicitações de agendamento. | React, TypeScript, Supabase, Netlify Functions |
+| [Capta](https://github.com/fbccsz/chat) | Campanhas imobiliárias, captação de interessados e acompanhamento de leads. MVP em validação. | React, TypeScript, Supabase, Netlify Functions |
 | [WebScrap do Bem](https://github.com/fbccsz/webscrapdobem) | Coleta e visualização de publicações em um painel com filtros e cache local. | Python, Streamlit, Apify, Pandas, SQLite |
 | [Editor de Vídeo](https://github.com/fbccsz/editor-video) | Criação de vídeos a partir de imagens e locução, em Python ou no navegador. | Python, MoviePy, Pillow, JavaScript |
 | [Outlook Automation](https://github.com/fbccsz/outlook-automation-python) | Mensagens personalizadas a partir de planilhas, com execução local no Outlook. | Python, Pandas, PyWin32 |
 | [Saga do Empreendedorismo](https://github.com/fbccsz/saga-do-empreendedorismo) | Experimento de jogo com exploração, combate e gerenciamento de recursos. | JavaScript, HTML, CSS |
 
-**Experimente:** [Atende Local](https://majestic-dodol-314eba.netlify.app/) · [Editor de Vídeo](https://fbccsz.github.io/editor-video/) · [Saga do Empreendedorismo](https://fbccsz.github.io/saga-do-empreendedorismo/)
+**Experimente:** [Capta](https://majestic-dodol-314eba.netlify.app/demo) · [Editor de Vídeo](https://fbccsz.github.io/editor-video/) · [Saga do Empreendedorismo](https://fbccsz.github.io/saga-do-empreendedorismo/)
 
 As demonstrações e os experimentos têm estágios diferentes de maturidade. O [portfólio](https://www.yshdev.me/#projects) apresenta o contexto de cada projeto e também uma seleção de trabalhos com código privado.
 
