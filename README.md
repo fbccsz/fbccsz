@@ -1,7 +1,7 @@
 <a href="https://www.yshdev.me/">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/ysh-banner-poster.svg">
-    <img src="assets/ysh-banner-animated.gif" width="1280" height="360" alt="ysh.dev — Python, automação e aplicações web. Banner animado com terminal e conexões em movimento.">
+    <img src="assets/ysh-banner-animated.gif" width="100%" alt="ysh.dev — Python, automação e aplicações web. Banner animado com terminal e conexões em movimento.">
   </picture>
 </a>
 
@@ -15,7 +15,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
-  <img src="assets/typing-light.svg" width="520" height="48" alt="Python para automatizar. Interfaces para conectar. Ideias que viram produtos.">
+  <img src="assets/typing-light.svg" width="520" alt="Python para automatizar. Interfaces para conectar. Ideias que viram produtos.">
 </picture>
 
 Desenvolvo **automações em Python e aplicações web** para conectar dados, organizar rotinas e transformar ideias em ferramentas úteis. Trabalho com APIs, interfaces em TypeScript e experiências mobile com Flutter.
