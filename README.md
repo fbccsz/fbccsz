@@ -22,6 +22,7 @@ Desenvolvo **automações em Python e aplicações web** para conectar dados, or
 
 ## Projetos selecionados
 
+- **[HookLedger](https://github.com/fbccsz/hookledger-webhook-studio)** — console para testar e depurar webhooks, com regras, rastros de execução e reprocessamento de falhas. API local em Python/FastAPI com HMAC, idempotência e SQLite; interface React/TypeScript. [Experimentar](https://hookledger-webhook-studio.vercel.app/).
 - **[FieldOps](https://github.com/fbccsz/fieldops-service-crm)** — CRM operacional para empresas de serviços: funil comercial, clientes, orçamentos e agendamento. Demo interativa com dados fictícios, JavaScript modular e testes com Node.js. [Experimentar](https://fieldops-service-crm.vercel.app/).
 - **[WebScrap do Bem](https://github.com/fbccsz/webscrapdobem)** — painel de publicações com coleta via Apify, filtros e cache local. Python, Streamlit, Pandas e SQLite. [Experimentar](https://webscrapdobem.streamlit.app/).
 - **[Frameflow](https://github.com/fbccsz/editor-video)** — vídeos a partir de imagens e locução, com ferramenta Python e processamento local no navegador. [Experimentar](https://fbccsz.github.io/editor-video/).
