@@ -23,7 +23,6 @@ Desenvolvo **automações em Python e aplicações web** para conectar dados, or
 ## Projetos selecionados
 
 - **[FieldOps](https://github.com/fbccsz/fieldops-service-crm)** — CRM operacional para empresas de serviços: funil comercial, clientes, orçamentos e agendamento. Demo interativa com dados fictícios, JavaScript modular e testes com Node.js. [Experimentar](https://fieldops-service-crm.vercel.app/).
-- **[Capta](https://www.yshdev.me/#project-capta)** — SaaS imobiliário em validação, com login, espaços individuais, campanhas e gestão de leads. React, TypeScript e Supabase; código e acesso à aplicação restritos.
 - **[WebScrap do Bem](https://github.com/fbccsz/webscrapdobem)** — painel de publicações com coleta via Apify, filtros e cache local. Python, Streamlit, Pandas e SQLite. [Experimentar](https://webscrapdobem.streamlit.app/).
 - **[Frameflow](https://github.com/fbccsz/editor-video)** — vídeos a partir de imagens e locução, com ferramenta Python e processamento local no navegador. [Experimentar](https://fbccsz.github.io/editor-video/).
 - **[Outlook Automation](https://github.com/fbccsz/outlook-automation-python)** — mensagens personalizadas a partir de planilhas, com execução local no Outlook e protótipo web de simulação.
