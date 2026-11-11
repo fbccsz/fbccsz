@@ -1,5 +1,8 @@
 <a href="https://www.yshdev.me/">
-  <img src="assets/ysh-banner.svg" width="100%" alt="ysh.dev — Python, automação e aplicações web.">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/ysh-banner-poster.svg">
+    <img src="assets/ysh-banner-animated.gif" width="1280" height="360" alt="ysh.dev — Python, automação e aplicações web. Banner animado com terminal e conexões em movimento.">
+  </picture>
 </a>
 
 <p align="center">
@@ -9,6 +12,11 @@
 </p>
 
 ## Olá, sou ysh
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
+  <img src="assets/typing-light.svg" width="520" height="48" alt="Python para automatizar. Interfaces para conectar. Ideias que viram produtos.">
+</picture>
 
 Desenvolvo **automações em Python e aplicações web** para conectar dados, organizar rotinas e transformar ideias em ferramentas úteis. Trabalho com APIs, interfaces em TypeScript e experiências mobile com Flutter.
 
@@ -24,6 +32,23 @@ O [portfólio](https://www.yshdev.me/#projects) reúne o contexto, as tecnologia
 
 ## Ferramentas que uso
 
+<p>
+  <img src="assets/tech/python.svg" width="48" height="48" alt="Python" title="Python">&nbsp;
+  <img src="assets/tech/fastapi.svg" width="48" height="48" alt="FastAPI" title="FastAPI">&nbsp;
+  <img src="assets/tech/supabase.svg" width="48" height="48" alt="Supabase" title="Supabase">&nbsp;
+  <img src="assets/tech/sqlite.svg" width="48" height="48" alt="SQLite" title="SQLite">&nbsp;
+  <img src="assets/tech/n8n.svg" width="48" height="48" alt="n8n" title="n8n">
+</p>
+
+<p>
+  <img src="assets/tech/react.svg" width="48" height="48" alt="React" title="React">&nbsp;
+  <img src="assets/tech/typescript.svg" width="48" height="48" alt="TypeScript" title="TypeScript">&nbsp;
+  <img src="assets/tech/flutter.svg" width="48" height="48" alt="Flutter" title="Flutter">&nbsp;
+  <img src="assets/tech/dart.svg" width="48" height="48" alt="Dart" title="Dart">&nbsp;
+  <img src="assets/tech/git.svg" width="48" height="48" alt="Git" title="Git">&nbsp;
+  <img src="assets/tech/linux.svg" width="48" height="48" alt="Linux" title="Linux">
+</p>
+
 **Backend e automação** · Python, FastAPI, Pandas, OpenPyXL  
 **Web** · TypeScript, JavaScript, React, Vite, HTML e CSS  
 **Dados e integrações** · SQL, SQLite, SQLAlchemy, Supabase, APIs REST e n8n  
@@ -32,3 +57,4 @@ O [portfólio](https://www.yshdev.me/#projects) reúne o contexto, as tecnologia
 ---
 
 Projetos de automação, ferramentas para negócios e aplicações web: **[yshdev@outlook.com](mailto:yshdev@outlook.com)**.
+

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+    <title>ysh.dev — Python, automação e aplicações web</title>
+    <rect width="1280" height="360" fill="#080a0c"/>
+    <g stroke="#24282c" stroke-width="1"><path d="M40 0v360M704 0v360M1240 0v360M0 46h1280M0 308h1280"/></g>
+    <g font-family="monospace" font-size="13" letter-spacing="2" fill="#a8afb5"><text x="64" y="30">YSH / BRASIL</text><text x="1080" y="30">YSH.DEV</text></g>
+    <text x="57" y="194" fill="#f6f8fa" font-family="Arial, Helvetica, sans-serif" font-size="132" font-weight="700" letter-spacing="-8">ysh<tspan fill="#080a0c" stroke="#8e959b" stroke-width="1.2">.dev</tspan></text>
+    <text x="66" y="252" fill="#c4cbd1" font-family="monospace" font-size="19" letter-spacing="1">PYTHON · AUTOMAÇÃO · APLICAÇÕES WEB</text>
+    <g stroke="#394047" stroke-width="1.5" fill="none"><polyline points="764,153 833,153 865,121 945,121 977,153 1186,153"/><polyline points="764,195 871,195 903,227 1055,227 1087,195 1186,195"/><polyline points="764,237 814,237 846,269 963,269 995,237 1186,237"/></g>
+    <circle cx="841" cy="145" r="9" fill="#fff" opacity=".06"/><circle cx="841" cy="145" r="3.5" fill="#e8f0f4"/><circle cx="1042.3333333333333" cy="227" r="9" fill="#fff" opacity=".06"/><circle cx="1042.3333333333333" cy="227" r="3.5" fill="#e8f0f4"/><circle cx="1106.4166666666665" cy="237" r="9" fill="#fff" opacity=".06"/><circle cx="1106.4166666666665" cy="237" r="3.5" fill="#e8f0f4"/>
+    <g fill="#080a0c" stroke="#65717c" stroke-width="1.5"><circle cx="764" cy="153" r="6"/><circle cx="1186" cy="153" r="6"/><circle cx="764" cy="195" r="6"/><circle cx="1186" cy="195" r="6"/><circle cx="764" cy="237" r="6"/><circle cx="1186" cy="237" r="6"/></g>
+    <g font-family="monospace" font-size="15"><text x="764" y="91" fill="#77828c">ysh@dev:~</text><text x="764" y="115" fill="#cdd6dd">&gt; python build.py --ideas<tspan fill="#fff">▌</tspan></text></g>
+    <circle cx="1194" cy="87" r="3" fill="#e7eef4" opacity="0.700"/>
+    <g font-family="monospace" font-size="12" letter-spacing="1.3" fill="#8e979f"><text x="64" y="337">IDEIAS, DADOS E PROCESSOS — CONECTADOS POR CÓDIGO.</text><text x="1074" y="337">GITHUB / YSH</text></g>
+  </svg>

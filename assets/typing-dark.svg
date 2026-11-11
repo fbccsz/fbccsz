@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="48" viewBox="0 0 520 48" role="img" aria-labelledby="title desc">
+<title id="title">Python para automatizar. Interfaces para conectar. Ideias que viram produtos.</title>
+<desc id="desc">Três frases sobre o trabalho de ysh em uma animação de digitação.</desc>
+<style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>
+<g class="still" fill="#d6dde4" font-family="monospace" font-size="26"><text x="0" y="33">Python para automatizar.</text></g>
+<g class="motion" fill="#d6dde4" font-family="monospace" font-size="26">
+<defs><clipPath id="line-0"><rect x="0" y="0" width="0" height="48"><animate attributeName="width" values="0;379.79999999999995;379.79999999999995;0;0" keyTimes="0;0.18;0.27;0.31;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect></clipPath></defs>
+<g opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.31;0.311;1" dur="12s" begin="0s" repeatCount="indefinite"/><text x="0" y="33" clip-path="url(#line-0)">Python para automatizar.</text><rect x="0" y="10" width="2" height="28"><animate attributeName="x" values="0;379.79999999999995;379.79999999999995;0;0" keyTimes="0;0.18;0.27;0.31;1" dur="12s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect></g>
+<defs><clipPath id="line-1"><rect x="0" y="0" width="0" height="48"><animate attributeName="width" values="0;395.5;395.5;0;0" keyTimes="0;0.18;0.27;0.31;1" dur="12s" begin="4s" repeatCount="indefinite"/></rect></clipPath></defs>
+<g opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.31;0.311;1" dur="12s" begin="4s" repeatCount="indefinite"/><text x="0" y="33" clip-path="url(#line-1)">Interfaces para conectar.</text><rect x="0" y="10" width="2" height="28"><animate attributeName="x" values="0;395.5;395.5;0;0" keyTimes="0;0.18;0.27;0.31;1" dur="12s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect></g>
+<defs><clipPath id="line-2"><rect x="0" y="0" width="0" height="48"><animate attributeName="width" values="0;411.2;411.2;0;0" keyTimes="0;0.18;0.27;0.31;1" dur="12s" begin="8s" repeatCount="indefinite"/></rect></clipPath></defs>
+<g opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.31;0.311;1" dur="12s" begin="8s" repeatCount="indefinite"/><text x="0" y="33" clip-path="url(#line-2)">Ideias que viram produtos.</text><rect x="0" y="10" width="2" height="28"><animate attributeName="x" values="0;411.2;411.2;0;0" keyTimes="0;0.18;0.27;0.31;1" dur="12s" begin="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect></g>
+</g></svg>
+
