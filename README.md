@@ -24,6 +24,7 @@ Desenvolvo **automações em Python e aplicações web** para conectar dados, or
 
 - **[Capta](https://github.com/fbccsz/chat)** — campanhas imobiliárias, captação de interessados e acompanhamento de leads. MVP em validação com React, TypeScript e Supabase. [Ver demo](https://majestic-dodol-314eba.netlify.app/demo).
 - **[WebScrap do Bem](https://github.com/fbccsz/webscrapdobem)** — painel de publicações com coleta via Apify, filtros e cache local. Python, Streamlit, Pandas e SQLite.
+[Experimentar](https://webscrapdobem.streamlit.app/).
 - **[Frameflow](https://github.com/fbccsz/editor-video)** — vídeos a partir de imagens e locução, com ferramenta Python e processamento local no navegador. [Experimentar](https://fbccsz.github.io/editor-video/).
 - **[Outlook Automation](https://github.com/fbccsz/outlook-automation-python)** — mensagens personalizadas a partir de planilhas, com execução local no Outlook e protótipo web de simulação.
 - **[Saga do Empreendedorismo](https://github.com/fbccsz/saga-do-empreendedorismo)** — experimento de jogo com exploração, combate e gestão de recursos em JavaScript. [Jogar](https://fbccsz.github.io/saga-do-empreendedorismo/).
